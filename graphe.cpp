@@ -68,8 +68,9 @@ graphe::graphe(std::string nomFichier,int x){
     if ( ifs.fail() )
         throw std::runtime_error("Probleme lecture taille du graphe");
 
-    float poids;
-    ifs >> poids;
+    int nbpoids;
+    ifs >> nbpoids;
+
     //lecture des sommets
     for (int i=0; i<taille; ++i)
         {

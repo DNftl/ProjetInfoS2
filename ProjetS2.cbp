@@ -36,6 +36,7 @@
 		<Unit filename="arete.cpp" />
 		<Unit filename="arete.h" />
 		<Unit filename="fichierExemple1.txt" />
+		<Unit filename="fichierExemple2.txt" />
 		<Unit filename="graphe.cpp">
 			<Option target="Debug" />
 		</Unit>
