@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="p-V4" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/p-V4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Classe/Arrete.cpp" />
+		<Unit filename="Classe/Arrete.h" />
+		<Unit filename="Classe/Sommet.cpp" />
+		<Unit filename="Classe/Sommet.h" />
+		<Unit filename="Classe/graph.h" />
+		<Unit filename="General/affichage.cpp" />
+		<Unit filename="General/dessiner.cpp" />
+		<Unit filename="General/kruscal.cpp" />
+		<Unit filename="General/lecture.cpp" />
+		<Unit filename="General/pareto.cpp" />
+		<Unit filename="General/svgfile.cpp" />
+		<Unit filename="General/svgfile.h" />
+		<Unit filename="General/trier.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

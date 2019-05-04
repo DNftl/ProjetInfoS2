@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1555844291 source:c:\users\nicol\onedrive\bureau\p-v4\classe\arrete.cpp
+	"Arrete.h"
+
+1555844291 c:\users\nicol\onedrive\bureau\p-v4\classe\arrete.h
+
+1555844291 source:c:\users\nicol\onedrive\bureau\p-v4\classe\sommet.cpp
+	"Sommet.h"
+
+1555844291 c:\users\nicol\onedrive\bureau\p-v4\classe\sommet.h
+
+1555783224 source:c:\users\nicol\onedrive\bureau\p-v4\general\affichage.cpp
+	"../Classe/graph.h"
+	<fstream>
+	<iostream>
+	"../Classe/Sommet.h"
+	"../Classe/Arrete.h"
+
+1555878436 c:\users\nicol\onedrive\bureau\p-v4\classe\graph.h
+	"Sommet.h"
+	"Arrete.h"
+	<fstream>
+	<vector>
+	"../General/svgfile.h"
+
+1555776875 c:\users\nicol\onedrive\bureau\p-v4\general\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555878787 source:c:\users\nicol\onedrive\bureau\p-v4\general\dessiner.cpp
+	"../Classe/graph.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1555878436 source:c:\users\nicol\onedrive\bureau\p-v4\general\kruscal.cpp
+	"../Classe/graph.h"
+	<fstream>
+	<iostream>
+
+1555778224 source:c:\users\nicol\onedrive\bureau\p-v4\general\lecture.cpp
+	"../Classe/graph.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1555774400 source:c:\users\nicol\onedrive\bureau\p-v4\general\svgfile.cpp
+	<iostream>
+	<sstream>
+	<exception>
+	<stdexcept>
+
+1555675400 source:c:\users\nicol\onedrive\bureau\p-v4\general\trier.cpp
+	<fstream>
+	<iostream>
+	"../Classe/Sommet.h"
+	"../Classe/Arrete.h"
+	"../Classe/graph.h"
+
+1555878435 source:c:\users\nicol\onedrive\bureau\p-v4\main.cpp
+	<iostream>
+	<fstream>
+	"General/svgfile.h"
+	"Classe/graph.h"
+
+1555878451 source:c:\users\nicol\onedrive\bureau\p-v4\general\pareto.cpp
+	"../Classe/graph.h"
+	<fstream>
+	<iostream>
+	<math.h>
+
+1555844292 source:c:\users\david neftel\desktop\p-v4\classe\arrete.cpp
+	"Arrete.h"
+
+1555844292 c:\users\david neftel\desktop\p-v4\classe\arrete.h
+
+1555844292 source:c:\users\david neftel\desktop\p-v4\classe\sommet.cpp
+	"Sommet.h"
+
+1555844292 c:\users\david neftel\desktop\p-v4\classe\sommet.h
+
+1555783226 source:c:\users\david neftel\desktop\p-v4\general\affichage.cpp
+	"../Classe/graph.h"
+	<fstream>
+	<iostream>
+	"../Classe/Sommet.h"
+	"../Classe/Arrete.h"
+
+1555878438 c:\users\david neftel\desktop\p-v4\classe\graph.h
+	"Sommet.h"
+	"Arrete.h"
+	<fstream>
+	<vector>
+	"../General/svgfile.h"
+
+1555776876 c:\users\david neftel\desktop\p-v4\general\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555878788 source:c:\users\david neftel\desktop\p-v4\general\dessiner.cpp
+	"../Classe/graph.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1555878438 source:c:\users\david neftel\desktop\p-v4\general\kruscal.cpp
+	"../Classe/graph.h"
+	<fstream>
+	<iostream>
+
+1555778226 source:c:\users\david neftel\desktop\p-v4\general\lecture.cpp
+	"../Classe/graph.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1555878452 source:c:\users\david neftel\desktop\p-v4\general\pareto.cpp
+	"../Classe/graph.h"
+	<fstream>
+	<iostream>
+	<math.h>
+
+1555774402 source:c:\users\david neftel\desktop\p-v4\general\svgfile.cpp
+	<iostream>
+	<sstream>
+	<exception>
+	<stdexcept>
+
+1555675400 source:c:\users\david neftel\desktop\p-v4\general\trier.cpp
+	<fstream>
+	<iostream>
+	"../Classe/Sommet.h"
+	"../Classe/Arrete.h"
+	"../Classe/graph.h"
+
+1555878886 source:c:\users\david neftel\desktop\p-v4\main.cpp
+	<iostream>
+	<fstream>
+	"General/svgfile.h"
+	"Classe/graph.h"
+
